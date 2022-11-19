@@ -1,2 +1,2 @@
-# univaiso-testing-channels
+# univalent-logo
 Univalent's Logo
