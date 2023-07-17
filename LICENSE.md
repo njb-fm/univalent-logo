@@ -56,10 +56,12 @@ As a general rule, the following uses are not permitted.
 (iii) Use for the purpose of disparaging NJB and brands, except for caricatures.
 
 ## Article 8.
-If you have any questions, please contact us at njb-fm[at]via.tokyo.jp
+If you have any questions, please contact us at knjbfm[at]gmail.com
 
 -----
 
 Established on 17 June 2023
 
 Added of concrete examples of Article 3 (iii) and (iv) on 18 June 2023
+
+Changed the E-mail address on 17 July 2023
